@@ -1,1 +1,0 @@
-export const shipmentData =  [2, 10, 10,4,137];
